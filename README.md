@@ -25,4 +25,5 @@ This project contains code  for the implementation of a weather forecasting mode
 - **RNN_Seattle_Dataset.ipynb**: Implementation of the RNN model for time-series regression task on the Seattle dataset.
 - **Seattle_Weather_FFNN.ipynb**: Implementation of the FFNN model for classification tasks on the Seattle dataset, it includes baseline benchmarking machine learning models such as Random Forest and XGBoost.
 
+Make sure to install necessary libraries in order to run these notebooks.
 ---
