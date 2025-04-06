@@ -1,4 +1,3 @@
-# ECE4715_Final_Project
 ## Weather Prediction Using Deep Learning
 
 This project contains code  for the implementation of a weather forecasting model using deep learning techniques.
